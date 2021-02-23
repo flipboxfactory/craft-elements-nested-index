@@ -1,6 +1,6 @@
 {
   "name": "flipboxfactory/craft-elements-nested-index",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "description": "Nested Element Index for Craft CMS",
   "keywords": [
     "craft cms",
@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "craftcms/cms": ">=3.4.0",
+    "craftcms/cms": ">=3.6.0",
     "flipboxfactory/craft-ember": "^2.0"
   },
   "require-dev": {
